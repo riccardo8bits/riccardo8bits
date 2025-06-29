@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em Formação`**
 
-Tenho 16 anos e sou de Guararapes-SP. Atualmente estudo Desenvolvimento no SENAI, com foco em Python e sistemas Windows. Estou construindo minha base em programação e adoro compartilhar meu aprendizado.
+Tenho 16 anos e sou de Guararapes-SP. Atualmente estudo Desenvolvimento no SENAI, com foco em Desenvolvimento de Sistemas. Estou construindo minha base em programação e adoro compartilhar meu aprendizado.
 
 <p align="left">
     <a href="https://www.youtube.com/@RicardoMartinsBarros">
