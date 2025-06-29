@@ -29,7 +29,7 @@ Tenho 16 anos e sou de Guararapes-SP. Atualmente estudo Desenvolvimento no SENAI
 
 ---
 
-### 🛠 Main Stack
+### 🛠 Stack Principal
 
 <img 
     align="left" 
