@@ -1,8 +1,8 @@
 # 👨‍💻 Ricardo Barros
 
-**`Desenvolvedor em Formação`**
+**`Developer in Training`**
 
-Tenho 16 anos e sou de Guararapes-SP. Atualmente estudo Desenvolvimento no SENAI, com foco em Desenvolvimento de Sistemas. Estou construindo minha base em programação e adoro compartilhar meu aprendizado.
+I'm 16 years old and I'm from Guararapes-SP. I'm currently studying Development at SENAI, with a focus on Systems Development. I'm building my foundation in programming and I like to share my learning.
 
 <p align="left">
     <a href="https://www.youtube.com/@RicardoMartinsBarros">
@@ -30,7 +30,7 @@ Tenho 16 anos e sou de Guararapes-SP. Atualmente estudo Desenvolvimento no SENAI
 
 ---
 
-### 🛠 Stack Principal
+### 🛠 Main Stack
 
 <img 
     align="left" 
