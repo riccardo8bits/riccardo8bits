@@ -2,7 +2,7 @@
 
 **`Developer in Training`**  
 
-Tenho 16 anos e sou de Guararapes-SP. Atualmente estudo Desenvolvimento de Sistemas no SENAI, com foco em construir minha base em programação e gosto de compartilhar meu aprendizado  
+Tenho 16 anos e sou do interior de São Paulo. Atualmente estudo Desenvolvimento de Sistemas no SENAI, com foco em construir minha base em programação e gosto de compartilhar meu aprendizado  
 <p align="left">
     <a href="https://www.youtube.com/@RicardoMartinsBarros">
         <img 
