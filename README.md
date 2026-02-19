@@ -1,64 +1,33 @@
 # 👨‍💻 Ricardo Barros
 
-**`Developer in Training`**  
+**Software Developer in Progress**
 
-Tenho 16 anos e sou do interior de São Paulo. Atualmente estudo Desenvolvimento de Sistemas no SENAI, com foco em construir minha base em programação e gosto de compartilhar meu aprendizado  
-<p align="left">
-    <a href="https://www.youtube.com/@RicardoMartinsBarros">
-        <img 
-            alt="Meu YouTube" 
-            title="Visite meu canal"
-            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/riccardo8bits">
-        <img 
-            alt="Meu GitHub" 
-            title="Meus projetos"
-            src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/ricardo-martins-barros-barrros-91953b372/">
-        <img 
-            alt="Meu LinkedIn" 
-            title="Meu perfil profissional"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
+Sou estudante de Desenvolvimento de Sistemas no SENAI (SP), com foco em construir uma base sólida em programação, desenvolvimento web e banco de dados.
+
+Tenho interesse especial em backend com Python e desenvolvimento de aplicações web. Estou constantemente evoluindo através de projetos práticos e estudo contínuo.
 
 ---
 
-### 🛠 Stack Principal
+## 🚀 Tech Stack
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right:15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Windows" 
-    title="Windows"
-    width="40px" 
-    style="padding-right:15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
-/>
+- Python  
+- Flask  
+- HTML & CSS  
+- MySQL  
+- Git & GitHub  
 
-<br/><br/><br/>
+---
 
-### 📊 GitHub Stats
+## 📫 Contato
 
-<p align="center">
-  <img 
-    height="165em" 
-    src="https://github-readme-stats.vercel.app/api?username=riccardo8bits&show_icons=true&theme=dark&locale=pt-br&hide_border=true&bg_color=0d1117" 
-  />
-  <img 
-    height="165em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardo8bits&theme=dark&layout=compact&langs_count=4&hide_border=true&bg_color=0d1117" 
-  />
-</p>
+- YouTube: https://www.youtube.com/@RicardoMartinsBarros  
+- GitHub: https://github.com/riccardo8bits  
+- LinkedIn: https://www.linkedin.com/in/ricardo-martins-barros-barrros-91953b372/  
+
+---
+
+## 📊 GitHub Stats
+
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=riccardo8bits&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riccardo8bits&layout=compact&theme=tokyonight)
