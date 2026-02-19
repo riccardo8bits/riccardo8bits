@@ -1,40 +1,41 @@
-# 👨‍💻 Ricardo Barros
+<h1 align="left">Hey 👋 I'm Ricardo Barros</h1>
 
-**Software Developer in Progress**
+<p align="left">
+  💻 Software Developer in Progress <br>
+  🎓 Systems Development Student (SENAI - SP) <br>
+  🚀 Focused on Backend with Python
+</p>
 
-Sou estudante de Desenvolvimento de Sistemas no SENAI (SP), com foco em construir uma base sólida em programação, desenvolvimento web e banco de dados.
-
-Tenho interesse especial em backend com Python e desenvolvimento de aplicações web. Estou constantemente evoluindo através de projetos práticos e estudo contínuo.
-
----
-
-## 🚀 Tech Stack
-
-- Python  
-- Flask  
-- HTML & CSS  
-- MySQL  
-- Git & GitHub  
-
----
-
-## 📫 Contato
-
-- YouTube: https://www.youtube.com/@RicardoMartinsBarros  
-- GitHub: https://github.com/riccardo8bits  
-- LinkedIn: https://www.linkedin.com/in/ricardo-martins-barros-barrros-91953b372/  
+<p align="left">
+  <a href="https://www.linkedin.com/in/ricardo-martins-barros-barrros-91953b372/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=riccardo8bits&show_icons=true&theme=github_dark&hide_border=true" 
-    height="170"
+    height="150"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardo8bits&layout=compact&theme=github_dark&hide_border=true" 
-    height="170"
+    height="150"
   />
+</p>
+
+---
+
+## 🚀 Technologies I Use
+
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
