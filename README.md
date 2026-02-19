@@ -2,7 +2,7 @@
 
 <p align="left">
   💻 Software Developer in Progress <br>
-  🎓 Systems Development Student (SENAI - SP) <br>
+  🎓 Systems Development Student    <br>
   🚀 Focused on Backend with Python
 </p>
 
@@ -17,15 +17,9 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=riccardo8bits&show_icons=true&theme=github_dark&hide_border=true" 
-    height="150"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardo8bits&layout=compact&theme=github_dark&hide_border=true" 
-    height="150"
-  />
-</p>
+<img 
+  src="https://streak-stats.demolab.com?user=riccardo8bits&theme=github-dark"
+/>
 
 ---
 
