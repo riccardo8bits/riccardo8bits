@@ -28,6 +28,13 @@ Tenho interesse especial em backend com Python e desenvolvimento de aplicações
 
 ## 📊 GitHub Stats
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=riccardo8bits&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riccardo8bits&layout=compact&theme=tokyonight)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=riccardo8bits&show_icons=true&theme=github_dark&hide_border=true" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardo8bits&layout=compact&theme=github_dark&hide_border=true" 
+    height="170"
+  />
+</p>
